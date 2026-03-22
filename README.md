@@ -52,4 +52,8 @@ const priya = {
 
 ---
 
+<img src="assets/images/connect.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
 ⭐️ From [@PriYaaaa652](https://github.com/PriYaaaa652)
