@@ -45,6 +45,8 @@ const priya = {
   lookingToCollaborateOn: "Open source projects and real-world software solutions",
   funFact: "It's okay not to be okay 🙂"
 }
+
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyaaaa652&label=Profile%20views&color=0e75b6&style=flat" alt="priyaaaa652" /> </p>
