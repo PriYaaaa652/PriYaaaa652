@@ -11,28 +11,33 @@
 </p>
 
 <p align="center">
-  <em>Focused on Machine Learning, Deep Learning, and building real-world software solutions</em>
+  <em>Focused on Machine Learning, Deep Learning and building real-world software solutions</em>
 </p>
 
+
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif">
 <!-- ========================= About Me ========================= -->
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const priya = {
   pronouns: "she/her",
   role: "CSE Student at EWU, currently UTA at CSE Department",
   focus: ["Machine Learning", "Deep Learning", "Web Development"],
-  skills: ["Python", "C/C++", "Data Structures & Algorithms", "HTML", "CSS", "JavaScript"],
+  skills: ["Python", "C/C++", "Data Structures & Algorithms",
+ "HTML", "CSS", "JavaScript"],
   tools: ["Jupyter", "VS Code", "Kaggle", "Git/GitHub"],
-  interests: ["AI & Intelligent Systems", "Problem Solving", "Cyber Security"],
-  learning: ["Deep Learning", "Machine Learning", "Web Development", "Cyber Security fundamentals"],
+  interests: ["AI & Intelligent Systems", "Problem Solving",
+ "Cyber Security"],
+  learning: ["Deep Learning", "Machine Learning", "Web Development",
+ "Cyber Security fundamentals"],
   lookingToCollaborateOn: "Open source projects and real-world software solutions",
   funFact: "It's okay not to be okay 🙂"
 }
 ```
 
 ###
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -109,6 +114,7 @@ const priya = {
 
 ###
 <!-- ========================= Social Links ========================= -->
+<h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://github.com/PriYaaaa652" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
