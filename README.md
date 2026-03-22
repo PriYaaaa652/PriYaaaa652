@@ -1,49 +1,44 @@
-# Hi there 👋 I'm Priya
+<!-- README.md -->
 
-🎓 I'm a CSE student focused on **Machine Learning**, **Deep Learning**, and building **real world software solutions**.
-
-
-
-## 🔭 Currently Working On
-- Machine Learning & Deep Learning projects
-- Python-based applications
-- Web development (frontend & backend basics)
-
-## 🌱 Currently Learning
-- Deep Learning
-- Machine Learning
-- Web Development
-- Cyber Security fundamentals
-
-## 💻 Skills
-
-### Programming Languages
-- Python
-- C / C++
-- Java
-- SQL
-- HTML, CSS, JavaScript (basic)
-
-### Technical Skills
-- Data Structures & Algorithms
-
-## 🤝 Open to Collaborate
-I’m looking to collaborate on **open-source projects**, especially in **Machine Learning**, **Deep Learning**, and **Python based applications**.
-
-## 🚀 Interests
-- AI & Intelligent Systems
-- Problem Solving
-- Cyber Security
-
-## 📫 Connect with Me
-- [Instagram](https://www.instagram.com/pri_yaaa652?igsh=dHQ0MXcwb2k2bjVu)
-
-## 😄 Pronouns
-She/Her
-
-## ⚡ Fun Fact
-It's okay not to be okay 🙂
-
+<!-- 🎉 Animated Capsule Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
+<!-- 🎨 Anime / Cartoon Avatar -->
+<p align="center">
+  <img src="assets/images/anime-avatar.png" width="250"/>
+</p>
+
+# 👋 Hi, I'm Farhatun Nahar Priya!
+
+Welcome to my GitHub profile! I'm a CSE student passionate about coding, tech, and learning new things every day. 🚀
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** C, C++, Python  
+- **Web:** HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub, VS Code  
+- **Other:** Multithreading, Algorithms, Data Structures  
+
+---
+
+## 💻 Projects
+
+1. **Whispering Pages Book Club System** – Multi-threaded book management using C  
+2. **Travel Planner** – Shortest path algorithms in city networks  
+3. **Cache Simulator** – L3 cache simulation with set-associative & LRU  
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- [Twitter](https://twitter.com/your-twitter)  
+- [Email](mailto:your-email@example.com)  
+
+---
+
+> "Coding is like painting — your logic is the brush and the output is your masterpiece." 🎨
