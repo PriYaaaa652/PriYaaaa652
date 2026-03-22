@@ -24,16 +24,12 @@
 ```javascript
 const priya = {
   pronouns: "she/her",
-  role: "role: "Pursuing BSc in CSE , UTA at CSE Department",
-  focus: ["Machine Learning", "Deep Learning", "Web Development"],
-  skills: ["Python", "C/C++", "Data Structures & Algorithms",
- "HTML", "CSS", "JavaScript"],
+  role: "Pursuing BSc in CSE , UTA at CSE Department",
+  skills: ["Python","Java", "SQL" "C/C++", "DSA", "HTML", "CSS"],
   tools: ["Jupyter", "VS Code", "Kaggle", "Git/GitHub"],
-  interests: ["AI & Intelligent Systems", "Problem Solving",
- "Cyber Security"],
-  learning: ["Deep Learning", "Machine Learning", "Web Development",
- "Cyber Security fundamentals"],
-  lookingToCollaborateOn: "Data Science, Machine Learning, AI projects, and real-world software solutions",
+  interests: ["web Development", "Problem Solving","Cyber Security"],
+  learning: ["Deep Learning", "ML", "Web Development","Cyber Security "],
+  lookingToCollaborateOn: "ML,AI projects and Open source projects",
   funFact: "It's okay not to be okay 🙂"
 }
 ```
