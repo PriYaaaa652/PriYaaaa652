@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi there 👋 I'm Priya
 
-<!--
-**PriYaaaa652/PriYaaaa652** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE student focused on Machine Learning, Deep Learning, and building real-world software solutions
 
-Here are some ideas to get you started:
+🔭 Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Machine Learning & Deep Learning projects
+* Python-based applications
+* Web development (frontend & backend basics)
+
+🌱 Currently learning:
+
+* Deep Learning
+* Machine Learning
+* Web Development
+* Cyber Security fundamentals
+
+💻 Skills:
+
+* Python
+* C / C++
+* Data Structures & Algorithms
+* HTML, CSS, JavaScript (basic)
+
+🚀 Interests:
+
+* AI & Intelligent Systems
+* Problem Solving
+* Cyber Security
+
+📫 Connect with me:
+
+* LinkedIn
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: It's okay not to be okay 🙂    eta github e readme te bosanor moto kore deo
