@@ -28,14 +28,7 @@
   </a>
 </p>
 
-<!-- ========================= Short Overview ========================= -->
-<p align="center">
-  🔭 Currently working on: Machine Learning & Deep Learning projects, Python apps, Web development basics<br>
-  🌱 Currently learning: Deep Learning, Web Development, Cyber Security fundamentals<br>
-  💻 Skills: Python, C/C++, DSA, HTML/CSS/JS (basic)<br>
-  🚀 Interests: AI & Intelligent Systems, Problem Solving, Cyber Security<br>
-  😄 Pronouns: She/Her | ⚡ Fun fact: It's okay not to be okay 🙂
-</p>
+
 
 <!-- ========================= A little more about me ========================= -->
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -46,9 +39,16 @@ const priya = {
   role: "CSE Student at EWU, currently UTA at CSE Department",
   focus: ["Machine Learning", "Deep Learning", "Web Development"],
   skills: ["Python", "C/C++", "Data Structures & Algorithms", "HTML", "CSS", "JavaScript"],
-  tools: ["Jupyter", "VS Code", "Git/GitHub"],
+  tools: ["Jupyter", "VS Code", "Kaggle","Git/GitHub"],
   interests: ["AI & Intelligent Systems", "Problem Solving", "Cyber Security"],
   learning: ["Deep Learning", "Machine Learning", "Web Development", "Cyber Security fundamentals"],
   lookingToCollaborateOn: "Open source projects and real-world software solutions",
   funFact: "It's okay not to be okay 🙂"
 }
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+⭐️ From [@PriYaaaa652](https://github.com/PriYaaaa652)
