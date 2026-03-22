@@ -6,7 +6,9 @@
 <!-- ========================= Introduction ========================= -->
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Farhatun+Nahar+Priya!;" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
   <p align="center">
-  <em>CSE Student at <a href="https://www.ewubd.edu/" target="_blank">EWU</a> | Currently UTA, CSE Department</em>
+  <p align="center">
+  <em>CSE Student at <a href="https://www.ewubd.edu/" target="_blank">EWU</a> | Major: Data Science</em>
+</p>
 </p>
 </p>
 
@@ -22,7 +24,7 @@
 ```javascript
 const priya = {
   pronouns: "she/her",
-  role: "CSE Student at EWU, currently UTA at CSE Department",
+  role: "role: "Pursuing BSc in CSE , UTA at CSE Department",
   focus: ["Machine Learning", "Deep Learning", "Web Development"],
   skills: ["Python", "C/C++", "Data Structures & Algorithms",
  "HTML", "CSS", "JavaScript"],
@@ -31,7 +33,7 @@ const priya = {
  "Cyber Security"],
   learning: ["Deep Learning", "Machine Learning", "Web Development",
  "Cyber Security fundamentals"],
-  lookingToCollaborateOn: "Open source projects and real-world software solutions",
+  lookingToCollaborateOn: "Data Science, Machine Learning, AI projects, and real-world software solutions",
   funFact: "It's okay not to be okay 🙂"
 }
 ```
