@@ -9,7 +9,7 @@
 </p>
 
 <!-- ========================= Introduction ========================= -->
-<h2 align="center">Hi, I'm Farhatun Nahar Priya!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center">Hi, I'm Farhatun Nahar Priya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center"><em>CSE Student at <a href="https://www.ewubd.edu/" target="_blank">EWU</a> | Currently UTA, CSE Department</em></p>
 
@@ -28,9 +28,7 @@
   </a>
 </p>
 
-
-
-<!-- ========================= A little more about me ========================= -->
+<!-- ========================= About Me ========================= -->
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
@@ -39,15 +37,12 @@ const priya = {
   role: "CSE Student at EWU, currently UTA at CSE Department",
   focus: ["Machine Learning", "Deep Learning", "Web Development"],
   skills: ["Python", "C/C++", "Data Structures & Algorithms", "HTML", "CSS", "JavaScript"],
-  tools: ["Jupyter", "VS Code", "Kaggle","Git/GitHub"],
+  tools: ["Jupyter", "VS Code", "Kaggle", "Git/GitHub"],
   interests: ["AI & Intelligent Systems", "Problem Solving", "Cyber Security"],
   learning: ["Deep Learning", "Machine Learning", "Web Development", "Cyber Security fundamentals"],
   lookingToCollaborateOn: "Open source projects and real-world software solutions",
   funFact: "It's okay not to be okay 🙂"
 }
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyaaaa652&label=Profile%20views&color=0e75b6&style=flat" alt="priyaaaa652" /> </p>
 
