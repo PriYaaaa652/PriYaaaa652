@@ -1,6 +1,6 @@
 <!-- ========================= Banner Section ========================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20Repo!&fontSize=50" alt="Capsule Banner"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome~&fontSize=50" alt="Capsule Banner"/>
 </p>
 
 <!-- ========================= Animated Anime Avatar ========================= -->
