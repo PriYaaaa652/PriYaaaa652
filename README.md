@@ -9,7 +9,7 @@
 </p>
 
 <!-- ========================= Introduction ========================= -->
-<h2 align="center">Hi, I'm Farhatun Nahar Priya! 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center">Hi, I'm Farhatun Nahar Priya!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center"><em>CSE Student at <a href="https://www.ewubd.edu/" target="_blank">EWU</a> | Currently UTA, CSE Department</em></p>
 
