@@ -2,7 +2,7 @@
 
 🎓 I'm a CSE student focused on **Machine Learning**, **Deep Learning**, and building **real world software solutions**.
 
----
+
 
 ## 🔭 Currently Working On
 - Machine Learning & Deep Learning projects
