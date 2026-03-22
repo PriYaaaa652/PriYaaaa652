@@ -48,6 +48,7 @@ const priya = {
 
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk1MGZmcnkycGo3c3pwaWM1MHkxYnBuZ2xyZjQ1dmc3NGh5cG5vdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NWPfZfg9tdSgyD2l4w/giphy.gif" width="60">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk1MGZmcnkycGo3c3pwaWM1MHkxYnBuZ2xyZjQ1dmc3NGh5cG5vdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NWPfZfg9tdSgyD2l4w/giphy.gif" width="60">
 
 ---
 
