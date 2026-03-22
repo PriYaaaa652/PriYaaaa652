@@ -1,37 +1,45 @@
-## Hi there 👋 I'm Priya
+# Hi there 👋 I'm Priya
 
-🎓 CSE student focused on Machine Learning, Deep Learning, and building real-world software solutions
+🎓 I'm a CSE student focused on **Machine Learning**, **Deep Learning**, and building **real world software solutions**.
 
-🔭 Currently working on:
+---
 
-* Machine Learning & Deep Learning projects
-* Python-based applications
-* Web development (frontend & backend basics)
+## 🔭 Currently Working On
+- Machine Learning & Deep Learning projects
+- Python-based applications
+- Web development (frontend & backend basics)
 
-🌱 Currently learning:
+## 🌱 Currently Learning
+- Deep Learning
+- Machine Learning
+- Web Development
+- Cyber Security fundamentals
 
-* Deep Learning
-* Machine Learning
-* Web Development
-* Cyber Security fundamentals
+## 💻 Skills
 
-💻 Skills:
+### Programming Languages
+- Python
+- C / C++
+- Java
+- SQL
+- HTML, CSS, JavaScript (basic)
 
-* Python
-* C / C++
-* Data Structures & Algorithms
-* HTML, CSS, JavaScript (basic)
+### Technical Skills
+- Data Structures & Algorithms
 
-🚀 Interests:
+## 🤝 Open to Collaborate
+I’m looking to collaborate on **open-source projects**, especially in **Machine Learning**, **Deep Learning**, and **Python based applications**.
 
-* AI & Intelligent Systems
-* Problem Solving
-* Cyber Security
+## 🚀 Interests
+- AI & Intelligent Systems
+- Problem Solving
+- Cyber Security
 
-📫 Connect with me:
+## 📫 Connect with Me
+- [Instagram](https://www.instagram.com/pri_yaaa652?igsh=dHQ0MXcwb2k2bjVu)
 
-* LinkedIn
+## 😄 Pronouns
+She/Her
 
-😄 Pronouns: She/Her
-
-⚡ Fun fact: It's okay not to be okay 🙂    eta github e readme te bosanor moto kore deo
+## ⚡ Fun Fact
+It's okay not to be okay 🙂
