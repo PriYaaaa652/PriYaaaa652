@@ -12,11 +12,18 @@
 <!-- ========================= Introduction ========================= -->
 <h2 align="center">Hi! I'm Farhatun Nahar Priya 👋</h2>
 <p align="center">
-  A passionate student of CSE, exploring coding, projects, and GitHub magic! 💻✨
+  A passionate CSE student exploring coding, projects, and GitHub magic! 💻✨
 </p>
 
-<!-- ========================= Quick Links ========================= -->
+<!-- ========================= Social Links ========================= -->
 <p align="center">
-  <a href="https://github.com/PriYaaaa652"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/priyaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/PriYaaaa652" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/priyaa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/pri_yaaa652" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
