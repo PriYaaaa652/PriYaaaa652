@@ -1,35 +1,18 @@
-<!-- ========================= Banner Section ========================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome~&fontSize=50&fontColor=FFFFFF" alt="Capsule Banner"/>
-</p>
+<h1 align="left">Hey I'm Priya</h1>
 
-<!-- ========================= Introduction ========================= -->
-<h2 align="center">Hi, I'm Farhatun Nahar Priya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+###
 
-<p align="center">
-  <em>CSE Student at <a href="https://www.ewubd.edu/" target="_blank">EWU</a> | Currently UTA, CSE Department</em>
-</p>
+<div align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
-<p align="center">
-  <em>Focused on Machine Learning, Deep Learning, and building real-world software solutions</em>
-</p>
+###
 
-<!-- ========================= Social Links ========================= -->
-<p align="center">
-  <a href="https://github.com/PriYaaaa652" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/farhatun-nahar-priya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/pri_yaaa652" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<p align="left">✨ Creating bugs since ... 2025<br>📚 I'm currently learning ... wev development<br>🎯 Goals: ... to be a data analyst<br>🎲 Fun fact: ... sleep</p>
 
-<!-- ========================= About Me ========================= -->
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+###
 
+<h2 align="left">I code with python</h2>
 
 ###
 
@@ -105,6 +88,13 @@
   <a href="https://www.instagram.com/pri_yaaa652?igsh=dHQ0MXcwb2k2bjVu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriYaaaa652&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PriYaaaa652&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
