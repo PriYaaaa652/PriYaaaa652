@@ -1,44 +1,22 @@
-<!-- README.md -->
-
-<!-- 🎉 Animated Capsule Banner -->
+<!-- ========================= Banner Section ========================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <!-- Capsule-style banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20Repo!&fontSize=50" alt="Capsule Banner"/>
 </p>
 
-<!-- 🎨 Anime / Cartoon Avatar -->
+<!-- ========================= Anime Avatar ========================= -->
 <p align="center">
-  <img src="[assets/images/anime-avatar.png](https://github.com/PriYaaaa652/PriYaaaa652/tree/main/assets/images)" width="250"/>
+  <img src="assets/images/anime-avatar.png" width="250" alt="Anime Avatar"/>
 </p>
 
-# 👋 Hi, I'm Farhatun Nahar Priya!
+<!-- ========================= Introduction ========================= -->
+<h2 align="center">Hi! I'm Farhatun Nahar Priya 👋</h2>
+<p align="center">
+  A passionate student of CSE, exploring coding, projects, and GitHub magic! 💻✨
+</p>
 
-Welcome to my GitHub profile! I'm a CSE student passionate about coding, tech, and learning new things every day. 🚀
-
----
-
-## 🛠️ Skills & Technologies
-
-- **Languages:** C, C++, Python  
-- **Web:** HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub, VS Code  
-- **Other:** Multithreading, Algorithms, Data Structures  
-
----
-
-## 💻 Projects
-
-1. **Whispering Pages Book Club System** – Multi-threaded book management using C  
-2. **Travel Planner** – Shortest path algorithms in city networks  
-3. **Cache Simulator** – L3 cache simulation with set-associative & LRU  
-
----
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- [Twitter](https://twitter.com/your-twitter)  
-- [Email](mailto:your-email@example.com)  
-
----
-
-> "Coding is like painting — your logic is the brush and the output is your masterpiece." 🎨
+<!-- ========================= Quick Links ========================= -->
+<p align="center">
+  <a href="https://github.com/PriYaaaa652"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/priyaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
