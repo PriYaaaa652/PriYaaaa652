@@ -7,7 +7,7 @@
 
 <!-- 🎨 Anime / Cartoon Avatar -->
 <p align="center">
-  <img src="assets/images/anime-avatar.png" width="250"/>
+  <img src="[assets/images/anime-avatar.png](https://github.com/PriYaaaa652/PriYaaaa652/tree/main/assets/images)" width="250"/>
 </p>
 
 # 👋 Hi, I'm Farhatun Nahar Priya!
