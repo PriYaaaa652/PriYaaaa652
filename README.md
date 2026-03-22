@@ -43,7 +43,6 @@ const priya = {
   lookingToCollaborateOn: "Open source projects and real-world software solutions",
   funFact: "It's okay not to be okay 🙂"
 }
-
 <!-- ========================= Profile Views ========================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyaaaa652&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
