@@ -97,11 +97,7 @@ const priya = {
 <div align="left">
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/PriYaaaa652/PriYaaaa652/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
 
