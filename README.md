@@ -13,7 +13,7 @@
 <p align="center">
   <em>Focused on Machine Learning, Deep Learning, and building real-world software solutions</em>
 </p>
-<img align="right" alt="coding" width="400" src="https://de.pinterest.com/kathleenwstrich/m%C3%A4dchen-gif/">
+
 <!-- ========================= About Me ========================= -->
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
