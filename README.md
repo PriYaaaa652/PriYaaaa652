@@ -5,8 +5,7 @@
 
 <!-- ========================= Introduction ========================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00FFFF&lines=Hi+There!+👋;I'm+Farhatun+Nahar+Priya!" />
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00FFFF&random=true&lines=Hi+There!+👋;I'm+Farhatun+Nahar+Priya!" />
 </h1>
   <em>CSE Student at <a href="https://www.ewubd.edu/" target="_blank">EWU</a> | Currently UTA, CSE Department</em>
 </p>
