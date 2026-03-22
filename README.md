@@ -3,16 +3,12 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlsYXpiMnl4YnE0c3VmeGVvNzJhbjZqbGl6Yzc1bWhjdzIzdm9ocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NWPfZfg9tdSgyD2l4w/giphy.gif"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ... 2025<br>📚 I'm currently learning ... wev development<br>🎯 Goals: ... to be a data analyst<br>🎲 Fun fact: ... sleeping</p>
+<p align="left">✨ Creating bugs since ... 2025<br>📚 I'm currently learning ... wev development<br>🎯 Goals: ... to be a data analyst<br>🎲 Fun fact: ... sleep</p>
 
 ###
 
