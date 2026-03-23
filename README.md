@@ -105,10 +105,3 @@ const priya = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
 </picture>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyaaaa652&show_icons=true&locale=en&layout=compact" alt="priyaaaa652" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyaaaa652&show_icons=true&locale=en" alt="priyaaaa652" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyaaaa652&" alt="priyaaaa652" /></p>
