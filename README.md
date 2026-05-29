@@ -7,7 +7,7 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Farhatun+Nahar+Priya!;" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
   <p align="center">
   <p align="center">
-  <em>CSE Student at <a href="https://www.ewubd.edu/" target="_blank">EWU</a> | Major: Data Science</em>
+  <em>CSE Student at <a href="https://www.ewubd.edu/" target="_blank">EWU</a> | Major: Data Scienc</em>
 </p>
 </p>
 </p>
