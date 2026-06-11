@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <em>Focused on Machine Learning, Deep Learning and building real-world software solutions</em>
+  <em>Focused on Machine Learning, Deep Learning and building real world software solutions</em>
 </p>
 
 
