@@ -113,4 +113,4 @@ const priya = {
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PriYaaaa652/PriYaaaa652/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PriYaaaa652/PriYaaaa652/output/github-snake-light.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/PriYaaaa652/PriYaaaa652/output/github-snake-light.svg">
-</picture>        fixed it
+</picture>       
