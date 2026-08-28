@@ -26,7 +26,7 @@
 const priya = {
   pronouns: "she/her",
   role: "Pursuing BSc in CSE , UTA at CSE Department",
-  skills: ["Python","Java","SQL", "C/C++", "DSA", "HTML", "CSS"],
+  skills: ["Python","Java", "SQL" "C/C++", "DSA", "HTML", "CSS"],
   tools: ["Jupyter", "VS Code", "Kaggle", "Git/GitHub"],
   interests: ["web Development", "Problem Solving","Cyber Security"],
   learning: ["Deep Learning", "ML", "Web Development","Cyber Security "],
@@ -261,4 +261,3 @@ const priya = {
   <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=PriYaaaa652&theme=dracula" height="150"/>
 </div>
-  isn't working can u fixed it? more over among all developer can u make it more beautifuly or neon coloring palate or make more ashtetic?
