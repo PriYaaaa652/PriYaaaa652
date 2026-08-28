@@ -1,116 +1,131 @@
- <!-- ========================= Banner Section ========================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome~&fontSize=50&fontColor=FFFFFF" alt="Capsule Banner"/>
-</p>
-
-<!-- ========================= Introduction ========================= -->
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Farhatun+Nahar+Priya!;" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
-  <p align="center">
-  <p align="center">
-  <em>CSE Student at <a href="https://www.ewubd.edu/" target="_blank">EWU</a> | Major: Data Science</em>
-</p>
-</p>
-</p>
+````html
+<!-- ========================= NEON BANNER ========================= -->
 
 <p align="center">
-  <em>Focused on Machine Learning, Deep Learning and building real world software solutions</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:00FFFF&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Welcome Banner"/>
 </p>
 
+<!-- ========================= INTRODUCTION ========================= -->
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif">
-<!-- ========================= About Me ========================= -->
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+<h1 align="center">
+  Hi there! 👋 I'm Farhatun Nahar Priya
+</h1>
 
-```javascript
-const priya = {
-  pronouns: "she/her",
-  role: "Pursuing BSc in CSE , UTA at CSE Department",
-  skills: ["Python","Java", "SQL" "C/C++", "DSA", "HTML", "CSS"],
-  tools: ["Jupyter", "VS Code", "Kaggle", "Git/GitHub"],
-  interests: ["web Development", "Problem Solving","Cyber Security"],
-  learning: ["Deep Learning", "ML", "Web Development","Cyber Security "],
-  lookingToCollaborateOn: "ML,AI projects and Open source projects",
-  funFact: "It's okay not to be okay 🙂"
-}
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&height=60&lines=Computer+Science+%26+Engineering+Student;Data+Science+Major;Machine+Learning+%7C+Deep+Learning;Artificial+Intelligence+%7C+Data+Science;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG"/>
+</p>
 
-###
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-</div>
+<p align="center">
+  <em>
+    CSE Student at
+    <a href="https://www.ewubd.edu/" target="_blank">East West University</a>
+    &nbsp;|&nbsp; Major: Data Science
+  </em>
+</p>
 
-###
-
-<div align="left">
-</div>
-
-
-
-###
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PriYaaaa652&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PriYaaaa652&layout=compact&theme=dracula&langs_count=6" height="150"/>
-
-</div>
+<p align="center">
+  <em>
+    Focused on Machine Learning, Deep Learning, Data Science,
+    and building meaningful real-world software solutions.
+  </em>
+</p>
 
 <br>
 
-<div align="center">
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=PriYaaaa652&theme=dracula" height="150"/>
-</div>
+<!-- ========================= ABOUT ME ========================= -->
 
-<!-- ========================= Social Links ========================= -->
-<h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="380" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif"/>
+
+## 👩‍💻 About Me
+
+```javascript
+const priya = {
+  role: "CSE Student | Data Science Major",
+  university: "East West University",
+  position: "Undergraduate Teaching Assistant",
+
+  skills: [ "Python", "Java", "C", "C++", "SQL", "DSA","HTML","CSS"],
+
+  tools: ["Jupyter","VS Code","Kaggle","Git","GitHub"],
+
+  interests: ["Machine Learning","Deep Learning","Data Science","Artificial Intelligence","Software Development","Problem Solving"],
+
+  currentlyLearning: ["Deep Learning","Computer Vision","NLP","AI Engineering"],
+
+  lookingToCollaborateOn: ["AI/ML Projects","Data Science Projects","Open Source Projects"],
+
+  funFact: "It's okay not to be okay 🙂"};
+````
+
+<br clear="right"/>
+
+<!-- ========================= TECHNOLOGIES ========================= -->
+
+## 🧠 Languages & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,js,git,github,linux,vscode,jupyter,tensorflow,pytorch&perline=8" alt="Skills"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Data%20Science-00FFFF?style=for-the-badge&logo=databricks&logoColor=black" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF00FF?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-6A0DAD?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+</p>
+
+<!-- ========================= GITHUB STATS ========================= -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriYaaaa652&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriYaaaa652&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+</p>
+
+<!-- ========================= GITHUB STREAK ========================= -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PriYaaaa652&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="GitHub Streak"/>
+</p>
+
+<!-- ========================= CONTRIBUTION SNAKE ========================= -->
+
+## 🐍 Contribution Journey
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PriYaaaa652/PriYaaaa652/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PriYaaaa652/PriYaaaa652/output/github-snake-light.svg"/>
+    <img src="https://raw.githubusercontent.com/PriYaaaa652/PriYaaaa652/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  </picture>
+</p>
+
+<!-- ========================= CONNECT ========================= -->
+
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://github.com/PriYaaaa652" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+
   <a href="https://www.linkedin.com/in/farhatun-nahar-priya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://www.instagram.com/pri_yaaa652" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PriYaaaa652/PriYaaaa652/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PriYaaaa652/PriYaaaa652/output/github-snake-light.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/PriYaaaa652/PriYaaaa652/output/github-snake-light.svg">
-</picture>        fixed it
+
+<!-- ========================= FOOTER ========================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:8A2BE2,100:6A0DAD&height=120&section=footer" width="100%" alt="Footer"/>
+</p>
+
+<p align="center">
+  <i>✨ Learning • Building • Exploring • Growing ✨</i>
+</p>
+```
