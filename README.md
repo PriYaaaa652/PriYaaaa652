@@ -1,5 +1,4 @@
-````html
-<!-- ========================= NEON BANNER ========================= -->
+<!-- ========================= BANNER ========================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:00FFFF&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Welcome Banner"/>
@@ -34,37 +33,30 @@
 
 <!-- ========================= ABOUT ME ========================= -->
 
-<img align="right" alt="Coding" width="380" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif"/>
+<h2>👩‍💻 About Me</h2>
 
-## 👩‍💻 About Me
+<p>
+  <img align="right" alt="Coding" width="350" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif"/>
+</p>
 
-```javascript
-const priya = {
-  role: "CSE Student | Data Science Major",
-  university: "East West University",
-  position: "Undergraduate Teaching Assistant",
-
-  skills: [ "Python", "Java", "C", "C++", "SQL", "DSA","HTML","CSS"],
-
-  tools: ["Jupyter","VS Code","Kaggle","Git","GitHub"],
-
-  interests: ["Machine Learning","Deep Learning","Data Science","Artificial Intelligence","Software Development","Problem Solving"],
-
-  currentlyLearning: ["Deep Learning","Computer Vision","NLP","AI Engineering"],
-
-  lookingToCollaborateOn: ["AI/ML Projects","Data Science Projects","Open Source Projects"],
-
-  funFact: "It's okay not to be okay 🙂"};
-````
+<ul>
+  <li>🎓 CSE student majoring in Data Science</li>
+  <li>🏫 East West University</li>
+  <li>👩‍🏫 Undergraduate Teaching Assistant</li>
+  <li>🤖 Interested in Machine Learning, Deep Learning & AI</li>
+  <li>📊 Passionate about Data Science and real-world problem solving</li>
+  <li>🌱 Currently exploring Computer Vision, NLP & AI Engineering</li>
+  <li>🤝 Open to AI/ML, Data Science & Open Source collaboration</li>
+</ul>
 
 <br clear="right"/>
 
 <!-- ========================= TECHNOLOGIES ========================= -->
 
-## 🧠 Languages & Technologies
+<h2>🧠 Languages & Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,js,git,github,linux,vscode,jupyter,tensorflow,pytorch&perline=8" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,js,git,github,linux,vscode,jupyter,tensorflow,pytorch&perline=8" alt="Languages and Technologies"/>
 </p>
 
 <p align="center">
@@ -76,14 +68,15 @@ const priya = {
 
 <!-- ========================= GITHUB STATS ========================= -->
 
-## 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PriYaaaa652&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriYaaaa652&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 </p>
 
-<!-- ========================= GITHUB STREAK ========================= -->
+<!-- ========================= STREAK ========================= -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PriYaaaa652&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="GitHub Streak"/>
@@ -91,7 +84,7 @@ const priya = {
 
 <!-- ========================= CONTRIBUTION SNAKE ========================= -->
 
-## 🐍 Contribution Journey
+<h2>🐍 Contribution Journey</h2>
 
 <p align="center">
   <picture>
@@ -103,9 +96,10 @@ const priya = {
 
 <!-- ========================= CONNECT ========================= -->
 
-## 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
 <p align="center">
+
   <a href="https://github.com/PriYaaaa652" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -117,6 +111,7 @@ const priya = {
   <a href="https://www.instagram.com/pri_yaaa652" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+
 </p>
 
 <!-- ========================= FOOTER ========================= -->
@@ -128,4 +123,3 @@ const priya = {
 <p align="center">
   <i>✨ Learning • Building • Exploring • Growing ✨</i>
 </p>
-```
